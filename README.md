@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Sanofi-MartijntenHeuvel
-- 👀 I’m interested in beer.
-- 🌱 I’m currently learning to brew.
-- 💞️ I’m looking to collaborate on AAP.
+- 👀 I’m interested in open source.
 - 📫 Reach me via Teams
 
 <!---
